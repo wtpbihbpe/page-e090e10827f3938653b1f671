@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "65f262bbbd06360ae45d8f22",
+  "owner": "wtpbihbpe",
+  "repo": "page-e090e10827f3938653b1f671",
+  "title": "Xplus加速(Xplus)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e090e10827f3938653b1f671",
+      "a": "Xplus加速(Xplus)",
+      "b": "2027官方最新地址导航",
+      "entity": "Xplus加速(Xplus)",
+      "brand": "Xplus加速(Xplus)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6f9bdabd08327a8bd8fa72f5654ec140b19462f631a60cc569d212563eb4318c",
+      "content": {
+        "primary_entity": "Xplus加速(Xplus)",
+        "keyword1": "Xplus加速(Xplus)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，减少配置步骤。",
+          "AI_CLIENTS_TITLE": "选择适配客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更快",
+          "AI_DESCRIPTION": "，Xplus加速按设备数量与流量需求划分基础版、旗舰版和团队版，支持多平台客户端订阅配置。基础版适合个人轻量使用，旗舰版增加 IPLC 专线游戏加速，团队版面向多设备协作场景。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开，先确认用量再决定版本。",
+          "AI_FEATURES_TITLE": "选择前先看三点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备；团队版每月1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "手机、电脑、平板按各自客户端文档导入订阅，同一时间在线设备数不超过所购套餐上限。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付价格更低，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_FEATURE_TITLE_1": "套餐区分",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "Xplus加速为个人和团队提供多版本海外加速服务，按流量与设备数量选择基础版、旗舰版或团队版，再在对应客户端中配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "按需选套餐，多设备畅连",
+          "AI_HIGHLIGHT_1": "基础版每月100GB，3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB，20台设备",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月；年付分别¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "对比套餐规格",
+          "AI_STEP_TEXT_1": "先确认常用设备数量和每月大致流量，判断适合基础版、旗舰版还是团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量和流媒体、游戏加速等适配要求，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅地址，完成配置后在对应设备上启用连接。",
+          "AI_STEP_TITLE_1": "选定服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Xplus加速套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期等事项。",
+          "AI_FAQ_QUESTION_1": "Xplus加速如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量：3台以内可选基础版，5台左右选旗舰版，20台多终端选团队版。再看每月流量，100GB适合轻度使用，300GB满足日常影音，1000GB适合团队共享。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在多少台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。选择时按日常需要同时连接的设备总数来匹配即可。",
+          "AI_FAQ_QUESTION_3": "年付与月付有什么区别，怎么选？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费、灵活调整；年付一次性支付，基础版150元、旗舰版350元、团队版850元，适合确定长期使用的用户。可根据使用周期长短决定。",
+          "AI_FAQ_QUESTION_4": "不同设备需要下载不同客户端吗？",
+          "AI_FAQ_ANSWER_4": "是的，不同操作系统对应不同订阅客户端。请根据设备类型选择相应版本下载，并参考客户端文档完成订阅导入与连接配置。",
+          "AI_FAQ_QUESTION_5": "团队版相比旗舰版多了哪些权益？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量、20台设备支持、VIP专属高带宽节点、企业定制路由与专属客户经理服务，适合多人协作场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eut20.cn",
+    "host": "eut20.cn"
+  },
+  "file_hashes": {
+    "index.html": "c776675de22251d335d1461ebad64d635de0c7af52950b33c8d6731d89477cec",
+    "sitemap.xml": "0402018d81842028f14f72de0a36cea0331e313d31006ca775a2a6fbe0fce9fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d346fd988db72d1c76d4c87990be5d95907ea50a728cb57b576b6fb4ea5cc8c5",
+    "robots.txt": "f74636fe9ffe3bdbc8514635e9fe6092edc47bfe97d7d03d4989f9eab4308778",
+    "3dacd7e561b37bd88ed66dd855b902ea.txt": "e66604c4e8f01b2c5d77e407e5226115c92c3cb5bc3d71c35069c8042f9cce4f"
+  },
+  "revision": "cc86c913eddeb1c1badabfef27a1470f84b889a3694428ad2f2959cc58b132a4"
+}
